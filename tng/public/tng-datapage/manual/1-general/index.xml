@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Általános áttekintés on Star Trek - A Legújabb Nemzedék</title>
+    <link>http://localhost/tng-datapage/manual/1-general/</link>
+    <description>Recent content in Általános áttekintés on Star Trek - A Legújabb Nemzedék</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu-hu</language><atom:link href="http://localhost/tng-datapage/manual/1-general/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Az Angel osztály használhatósága</title>
+      <link>http://localhost/tng-datapage/manual/1-general/0-usability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/tng-datapage/manual/1-general/0-usability/</guid>
+      <description>A 2379-es indulás óta eltelt időben több, eredetileg itt megfogalmazódott cél és technológia első ízben más, időközben elkészült hajóosztályokon lett alkalmazva inkább. Következzen egy rövid összefoglaló ezekről az Angel osztály részletezése előtt.
+Defiant osztály    A Defiant osztálynak a 911.3-as Csillagflotta Kutatási Direktíva, a 114.9-es és 154.7-es Csillagflotta Védelmi Direktívák, 371.6-os Borg Védelmi Direktíva és a Föderációs Tanács Általános Irányelveit követve az alábbi célokat tűzték ki:
+ Gyors reagálással biztosítsa a Föderáció biztonságát a fenyegető erőkkel szemben.</description>
+    </item>
+    
+    <item>
+      <title>Főbb specifikációk</title>
+      <link>http://localhost/tng-datapage/manual/1-general/2-specifications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/tng-datapage/manual/1-general/2-specifications/</guid>
+      <description>Megnevezés Adat     Befogadóképesség 208 fős legénység (42 tiszt, 166 sorállományos), 1200 fős evakuációs limit   Besorolási típus Mély űri felderítő nehézcirkáló   A fejlesztési projektet finanszírozta Csillagflotta Fejlett Technológiai Divízió, Föderációs Védelmi Tanács   Tervezés kezdete 2379   Gyártás kezdete 3412   Jelenlegi státusz Aktív szolgálatban   Építési helyszínek Új Utopia Planitia hajógyár, Antares hajógyár   Hosszúság 485m   Szélesség 162m   Magasság 52.</description>
+    </item>
+    
+    <item>
+      <title>Kutatás és fejlesztés</title>
+      <link>http://localhost/tng-datapage/manual/1-general/1-research-and-development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/tng-datapage/manual/1-general/1-research-and-development/</guid>
+      <description>Az Angel osztály tervezése még 2379-ben kezdődött, elődje az Achilles és Defiant osztályok voltak, melyek többnyire jól szerepeltek az éles bevetéseken. A Dominiumi háború után a projekt a Sovereign osztály és az Intrepid osztály nyomvonalán próbált tovább haladni a vezető tervezők irányításával. Eleinte a Voyager által a Delta kvadránsból és egy alternatív jövőből hozott technológiák fejlesztésére és föderációs technológiába beolvasztására volt kiélezve a tervezés, ám a Xindik megjelenésével új technológiai megvalósítások merültek fel, addig még lehetetlennek tűnő problémákra, ezzel előrelendítve a tervezést.</description>
+    </item>
+    
+    <item>
+      <title>Tervezés és építés</title>
+      <link>http://localhost/tng-datapage/manual/1-general/3-build-logs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/tng-datapage/manual/1-general/3-build-logs/</guid>
+      <description>2379-ben a Csillagflotta Hírszerzés a Delta Kvadránsból hazatért USS Voyager (NCC-74656) naplói és adaptált technológiái alapos vizsgálatát követően újra egy majdnem két évtizeddel korábbi tervhez nyúltak vissza és tették a tervezőasztalra. Ez maga volt a Borg fenyegetés. Habár már legyőzték a Borg inváziós próbálkozását kétszer, nem volt könnyű egyik összecsapás sem, ám Janeway kapitány és a Voyager több éves kalandja és sikeres védekezése a Borg ellen új fénybe helyezte a védelmi terveket a Csillagflotta házán belül.</description>
+    </item>
+    
+  </channel>
+</rss>
