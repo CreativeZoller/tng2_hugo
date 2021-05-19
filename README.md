@@ -1,4 +1,4 @@
-# tng2_nunjuck
+# tng2_hugo
 
 Old TNG2 website re-created with static site-generator: Hugo
 
