@@ -578,7 +578,8 @@ img {
 }
 .gdoc-footer__item {
   margin-right: 1em;
-  line-height: 2em
+  line-height: 2em;
+  font-size: 80%;
 }
 .gdoc-footer__link {
   color: #ffa31e
