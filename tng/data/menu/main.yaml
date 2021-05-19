@@ -1,21 +1,101 @@
 ---
 main:
-  - name: Level 1
-    ref: "/toc-tree/level-1"
+  - name: Nyitólap
+    ref: "/"
+  - name: Adatbank
+    ref: "/tng-datapage"
+  - name: Hajóadatok
+    ref: "/tng-datapage/manual"
     sub:
-      - name: Level 1.1
-        ref: "/toc-tree/level-1/level-1-1"
-      - name: Level 1.2
-        ref: "/toc-tree/level-1/level-1-2"
-      - name: Level 1.3
-        ref: "/toc-tree/level-1/level-1-3"
+      - name: Bevezetés
+        ref: "/tng-datapage/manual/0-index"
+      - name: Általános áttekintés
+        ref: "/tng-datapage/manual/1-general"
         sub:
-          - name: Level 1.3.1
-            ref: "/toc-tree/level-1/level-1-3/level-1-3-1"
-  - name: Level 2
-    ref: "/toc-tree/level-2"
+          - name: Az Angel osztály használhatósága
+            ref: "/tng-datapage/manual/1-general/0-usability"
+          - name: Kutatás és fejlesztés
+            ref: "/tng-datapage/manual/1-general/1-research-and-development"
+          - name: Főbb specifikációk
+            ref: "/tng-datapage/manual/1-general/2-specifications"
+          - name: Tervezés és építés
+            ref: "/tng-datapage/manual/1-general/3-build-logs"
+      - name: Vezérlő- és szabályzó-rendszerek
+        ref: "/tng-datapage/manual/2-systems"
+        sub:
+          - name: Híd, vagyis a vezérlőközpont
+            ref: "/tng-datapage/manual/2-systems/0-main-bridge"
+          - name: Részleg központok
+            ref: "/tng-datapage/manual/2-systems/1-department-centers"
+          - name: Optikai adatháló és a számítógépes vezérlőrendszerek
+            ref: "/tng-datapage/manual/2-systems/2-optical-datanet"
+          - name: Mesterséges intelligencia
+            ref: "/tng-datapage/manual/2-systems/3-ai"
+      - name: Meghajtás
+        ref: "/tng-datapage/manual/3-propulsion"
+        sub:
+          - name: Kvantumörvény Hajtómű
+            ref: "/tng-datapage/manual/3-propulsion/0-quantum-slipstream"
+          - name: Térhajtómű
+            ref: "/tng-datapage/manual/3-propulsion/1-warp-drive"
+          - name: Impulzus Hajtómű
+            ref: "/tng-datapage/manual/3-propulsion/2-impulse-drive"
+          - name: Vészhelyzeti Eljárások
+            ref: "/tng-datapage/manual/3-propulsion/3-emergency-procedures"
+      - name: Taktika
+        ref: "/tng-datapage/manual/4-tactical"
+        sub:
+          - name: Fézerek
+            ref: "/tng-datapage/manual/4-tactical/0-phasers"
+          - name: Torpedók
+            ref: "/tng-datapage/manual/4-tactical/1-torpedoes"
+          - name: Taktikai Védekező Rendszerek
+            ref: "/tng-datapage/manual/4-tactical/2-defense-systems"
+          - name: Személyi Felszerelések
+            ref: "/tng-datapage/manual/4-tactical/3-personal-equipment"
+          - name: Kék Villámok
+            ref: "/tng-datapage/manual/4-tactical/4-blue-lightnings"
+      - name: Kisegítő járművek
+        ref: "/tng-datapage/manual/5-auxiliary-vehicles"
+        sub:
+          - name: Angyal osztályú csillaghajó kompjai
+            ref: "/tng-datapage/manual/5-auxiliary-vehicles/0-shuttles"
+      - name: Emberi ellátás
+        ref: "/tng-datapage/manual/6-human-provisions"
+        sub:
+          - name: Legénységi Szállások
+            ref: "/tng-datapage/manual/6-human-provisions/0-crew-quarters"
+          - name: Orvosi Ellátás
+            ref: "/tng-datapage/manual/6-human-provisions/1-medical-services"
+          - name: Szórakozási Lehetőségek
+            ref: "/tng-datapage/manual/6-human-provisions/2-rehabilitation"
+  - name: Szereplők
+    ref: "/tng-datapage/crewmates"
     sub:
-      - name: Level 2.1
-        ref: "/toc-tree/level-2/level-2-1"
-      - name: Level 2.2
-        ref: "/toc-tree/level-2/level-2-2"
+      - name: Tony Jackoway
+        ref: "/tng-datapage/crewmates/t-jackoway"
+      - name: Daveed Chu
+        ref: "/tng-datapage/crewmates/d-chu"
+      - name: Sandy Murphy
+        ref: "/tng-datapage/crewmates/s-murphy"
+      - name: Abby Both
+        ref: "/tng-datapage/crewmates/a-both"
+      - name: Raiqar Ziraff
+        ref: "/tng-datapage/crewmates/r-ziraff"
+      - name: Patrick O'Connell
+        ref: "/tng-datapage/crewmates/p-o-connell"
+      - name: Samuel Karlsson
+        ref: "/tng-datapage/crewmates/s-karlsson"
+      - name: Sallo Tigan (Taal szimbióta)
+        ref: "/tng-datapage/crewmates/s-tigan"
+      - name: Lirera Kowlor
+        ref: "/tng-datapage/crewmates/l-kowlor"
+  - name: Idővonal
+    ref: "/tng-datapage/timeline"
+    sub:
+      - name: Viharos kezdetek
+        ref: "/tng-datapage/timeline/0-stormy-beginnings"
+      - name: Bátor lépések
+        ref: "/tng-datapage/timeline/1-to-boldly-go"
+      - name: Aranyidők
+        ref: "/tng-datapage/timeline/2-golden-ages"

@@ -1,8 +1,6 @@
 <nav>
-    {{ partial "search" . }}
-
     <section class="gdoc-nav--main">
-        <h2>Navigation</h2>
+        <h2>Navigáció</h2>
         {{ if .Site.Params.GeekdocMenuBundle }}
             {{ partial "menu-bundle" (dict "current" . "source" .Site.Data.menu.main.main) }}
         {{ else }}
@@ -12,7 +10,7 @@
 
     <section class="gdoc-nav--more">
         {{ if .Site.Data.menu.more.more }}
-            <h2>More</h2>
+            <h2>Egyéb</h2>
             {{ partial "menu-bundle" (dict "current" . "source" .Site.Data.menu.more.more) }}
         {{ end }}
     </section>

@@ -1,0 +1,10 @@
+---
+title: Általános áttekintés
+geekdocCollapseSection: true
+---
+
+A Csillagflotta 2130-as alapítása óta mindig a Föderáció mélyűri kutatásáért és védelméért volt a felelős erő. A XXIII. század végére világossá vált, hogy bár a Csillagflotta főleg a békés kapcsolatfelvételben és diplomáciai tárgyalásokban hisz, szükséges felkészülnie erős és gyors ellencsapásokra, nagyobb csillagközi háborúkban való eredményes jelenlétre és a Föderációs tagok felségűrjének védelmére. A Klingon- és Romulán-, majd a Borg-fenyegetés, a Dominiumi háború, a Voyager hazatérése után elérhetővé vált távoli űrökből érkező fenyegetések, az Ikóniai invázió mind olyan szituációkba sodorták a kvadránsunk nagyhatalmait, mely bármikor térdre kényszeríthette volna őket, ha nem sikerül a megfelelő ellenlépéseket minél hamarabb megtenni. Így egyre fontosabb lett nem csak a megfelelő védekezés kialakítása, hanem a minél gyorsabb reagálás egy-egy veszélyes helyzetben. Mindezt ötvözve a ténnyel, hogy a felfedezhető űr határai kitágultak, ez a sebesség még fontosabb tényezővé vált.
+
+A Csillagflotta számára az addig hagyományosnak mondható cirkálók fejlesztése elavult megoldásnak tűnt, ezt próbálták már a második Borg fenyegetésnél a Sovereign osztállyal kompenzálni. A később elkészült Defiant osztály és annak utódai egy új osztályt képviseltek: kísérő és csatahajók, első ízben a Csillagflotta történelmében. A változó szükségletek lassan összeolvasztották ezeket a külön csoportokat és mellettük a hagyományos cirkálók tervezése inkább kutatóhajók tervezésébe ment át. A Nebula majd a Nova és az Intrepid osztályok sikerességén felbuzdulva a Csillagflotta vezetése kiadta egy új hajóosztály tervezésének a parancsát 2379-ben, mely a Michael fedőnevet kapta. Az évek során bár lassan indult be a folyamat és sokszor kellett ezt a tervezési folyamatot félre dobni vagy éppen újrakezdeni a friss események tükrében, a tervezett hajóosztály lassan de biztosan kezdett testet ölteni.
+
+Ennek eredménye lett az Angyal osztályú nehézcirkáló, mely hivatalosan mélyűri felderítő és diplomáciai csillaghajó, nem hivatalosan pedig gyors reagálású mélyűri csapásmérő csillaghajó.

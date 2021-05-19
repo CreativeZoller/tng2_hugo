@@ -1,5 +1,5 @@
 ---
-geekdocCollapseSection: true
+geekdocCollapseSection: false
 ---
 
 Level 1
