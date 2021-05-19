@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emberi ellátás on Star Trek - A Legújabb Nemzedék</title>
+    <link>http://localhost/tng-datapage/manual/6-human-provisions/</link>
+    <description>Recent content in Emberi ellátás on Star Trek - A Legújabb Nemzedék</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu-hu</language><atom:link href="http://localhost/tng-datapage/manual/6-human-provisions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Legénységi Szállások</title>
+      <link>http://localhost/tng-datapage/manual/6-human-provisions/0-crew-quarters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/tng-datapage/manual/6-human-provisions/0-crew-quarters/</guid>
+      <description>Fontosságtól függően a legénységi szállásoknak négy nagy csoportja van: Állandó legénységi, Tiszthelyettesi, Főtiszti, Vendég.
+Az állandó legénységnek két fős szobái vannak, kisméretű hálóval, ami egyben nappali is, és egy fürdővel. Ezek foglalják el a legkevesebb helyet, alig 47 m2 alapterületűek.
+A tiszthelyettesek kabinja egy kicsivel nagyobb területű. Egyfős szobával, amit fal választ el a nappalitól és a fürdőtöl.
+Főtisztektből kevés van, mivel nincs sokra szükség egy hajó fedélzetén. Ezért övék a legnagyobb szállások szinte mindegyike.</description>
+    </item>
+    
+    <item>
+      <title>Orvosi Ellátás</title>
+      <link>http://localhost/tng-datapage/manual/6-human-provisions/1-medical-services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/tng-datapage/manual/6-human-provisions/1-medical-services/</guid>
+      <description>A gyengélkedő egy nagyméretű &amp;lsquo;központ&amp;rsquo; a négyes fedélzet csészealj-szekciójának elején. A legmodernebb orvosi felszerelésekkel van felszerelve. Két nagyobb részből áll, mindkettő közvetlenül megközelíthető a folyosókról és jeffries-csövekből egyaránt. Egyik részében az orvosi főtiszt irodája és a sürgősségi kezelő-részleg, míg másik részében a lábadozó-részleg. Az orvosi labor nem itt található, ellentétben számos eddigi hajóosztálytól.
+Olyan esetben, mikor a hajónak nagy létszámú sebesültről kell gondoskonia (mint például más hajók evakuációja), a főhangár és a nagyobb rakterek is használhatók betegelszállásolásra.</description>
+    </item>
+    
+    <item>
+      <title>Szórakozási Lehetőségek</title>
+      <link>http://localhost/tng-datapage/manual/6-human-provisions/2-rehabilitation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/tng-datapage/manual/6-human-provisions/2-rehabilitation/</guid>
+      <description>Az Angel osztályú csillaghajó habár a legmodernebb harcászati és kutatási felszerelésekkel van felszerelve, ugyanakkor a legnyugtatóbb, legpihentetőbb elfoglaltságokat is képes nyújtani legénysége számára. A két darab, utólag kiépített holofedélzeten kívül még a két legénységi étkezde is a szórakozást segíti elő. Továbbá minden szálláson minimum két darab neurológiai interfész található. Ez egyfajta &amp;lsquo;szegény ember holofedélzete&amp;rsquo;. Egy kis szerkezet, ami az ember halántékára helyezve generálja le a holoprogramokat. A különbség a holofedélzethez képest a nagyságán kívül az, hogy míg nagytestvére kézzel fogható 3D objektumokat generál, ez csak az agyban hozza létre az ingert, és hiteti el vele, hogy mindaz valóságos.</description>
+    </item>
+    
+  </channel>
+</rss>

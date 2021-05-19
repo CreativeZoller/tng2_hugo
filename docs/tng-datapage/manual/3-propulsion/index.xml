@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meghajtás on Star Trek - A Legújabb Nemzedék</title>
+    <link>http://localhost/tng-datapage/manual/3-propulsion/</link>
+    <description>Recent content in Meghajtás on Star Trek - A Legújabb Nemzedék</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu-hu</language><atom:link href="http://localhost/tng-datapage/manual/3-propulsion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Impulzus Hajtómű</title>
+      <link>http://localhost/tng-datapage/manual/3-propulsion/2-impulse-drive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/tng-datapage/manual/3-propulsion/2-impulse-drive/</guid>
+      <description>A hajó impulzushajtóművei az elérhető legjobb gyorsulást teszik lehetővé. Maximális sebessége a hajónak impulzus hajtóművekkel 8.200 m/s2. Ezt a mértékű gyorsulást nagy mennyiségű antianyag keverésével éri el az impulzus hajtómű. Ez 40% -al csökkenti a reaktorok megterhelését, és könnyebb utazást tesz lehetővé ezáltal. Az antianyag befecskendezést minimumon tartják, mivel a tényleges utazáshoz maximális energiára van szükség.</description>
+    </item>
+    
+    <item>
+      <title>Kvantumörvény Hajtómű</title>
+      <link>http://localhost/tng-datapage/manual/3-propulsion/0-quantum-slipstream/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/tng-datapage/manual/3-propulsion/0-quantum-slipstream/</guid>
+      <description>A Kvantumörvény Hajtómű az első igazi nagy lépés a csillagközi utazásban azóta, hogy a XXII. században feltalálták az Ötös fokozatú térhajtóművet. Ez lényegében az űr mélyebb régióiban dolgozik. A folyamat az örvény-indítással kezdődik, melyet a navigációs deflektor segít. A kvantumörvény egy gondosan fókuszált, irányított térmező amit a tér-idő kontínium kvantum-szintű manipulációjával hoznak létre. Az elve az, hogy a kvantummezőt a deflektortányéron irányítják át, hogy az a lehető legnagyobb változást hozzon létre a hajót környező térgörbületben, vagyis &amp;ldquo;buborékban&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Térhajtómű</title>
+      <link>http://localhost/tng-datapage/manual/3-propulsion/1-warp-drive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/tng-datapage/manual/3-propulsion/1-warp-drive/</guid>
+      <description>Habár a Kvantumörvény Hajtómű hihetetlen sebességgel képes a hajót mozgatni, mégis egy teljesen új és még instabil meghajtási módszer. Ezért is van szükség még a megszokott, standard térhajtómű jelenlétére az Angel osztályon. A projekt tervezőmérnökei eredetileg egybe szerették volna építeni a két meghajtórendszert, ám a kezdeti szimulációk alkalmával rájöttek, egy hibrid rendszer, újonnan kifejlesztett hajtóműgondolákkal ideálisabb megoldás lenne. Így a gondolák energiaszükséglete az örvényutazás közben sem lépi túl a hajó saját energiaellátását.</description>
+    </item>
+    
+    <item>
+      <title>Vészhelyzeti Eljárások</title>
+      <link>http://localhost/tng-datapage/manual/3-propulsion/3-emergency-procedures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/tng-datapage/manual/3-propulsion/3-emergency-procedures/</guid>
+      <description>A Kvantum Indukciós Mag (KIM, más nevén Kvantumörvény Mag) igényli a legnagyobb mennyiségű energiát a hajón. Emellett hatalmas üzemanyagot is igényel, melyet a hajó gépészeti részlegében raktároznak el. A vész esetben kilőhető antianyag tartályok ideális megoldást biztosítanak a hajtóműhöz. Ám rendkívül nehéz az újratöltés, ha a tartályok nagy része már üres. Mindegyik tartálynak saját fúziós mikroreaktora van, és egyéni vészhelyzeti erőtere, az esetleges robbanások megállítása érdekében. Az Angel osztály összesen nyolc tartályt igényel, szemben a régebbi reaktorral rendelkező hajókkal, melyeknek akár 20 vagy 30 tartályra is szükségük volt.</description>
+    </item>
+    
+  </channel>
+</rss>
